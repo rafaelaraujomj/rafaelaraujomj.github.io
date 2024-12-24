@@ -13,7 +13,6 @@ Neste portfólio, você encontrará projetos que refletem minha jornada de apren
 Fique à vontade para explorar meus projetos e entrar em contato. Vamos conversar sobre dados!
 
 *****
-# About Me
 # About me
 
 Hello! My name is Rafael, I am a Computer Science student currently specializing in the field of Data Science. I am passionate about turning data into valuable insights and solving complex problems through data analysis and modeling.
